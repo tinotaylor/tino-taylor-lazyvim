@@ -21,5 +21,6 @@ return {
       },
     },
   },
+  -- treesitter context for when functions are out of view
   { "nvim-treesitter/nvim-treesitter-context" },
 }
